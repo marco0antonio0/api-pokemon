@@ -57,5 +57,3 @@ Acesse `/api/docs` para testar e visualizar todos os endpoints, parâmetros e ex
 - TypeScript
 
 ---
-
-Feito por Marco
