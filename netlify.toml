@@ -4,7 +4,7 @@
 
 [functions]
   node_bundler = "nft"                
-  included_files = ["dist/**", ".env"]
+  included_files = ["dist/**"]
   external_node_modules = ["mysql2"]
 
 [[redirects]]
