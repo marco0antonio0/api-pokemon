@@ -1,4 +1,14 @@
 # API Pokémon
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white">
+</div>
+
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
 
 API REST desenvolvida com NestJS para consulta, filtro, paginação e cadastro dos principais pokémons da franquia. Ideal para estudos, demonstrações e integrações com sistemas que precisam de dados Pokémon de forma simples e rápida.
 
